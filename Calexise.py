@@ -7,6 +7,7 @@ from sklearn.metrics import mean_absolute_error, r2_score
 from sklearn.model_selection import train_test_split
 from sklearn import linear_model
 import matplotlib.pyplot as plt
+from sklearn.linear_model import LinearRegression
 from sklearn.preprocessing import PolynomialFeatures
 
 
