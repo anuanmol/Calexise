@@ -1,4 +1,7 @@
 ## Calexise
+
+Live : https://share.streamlit.io/anuanmol/calexise/main/Calexise.py
+
 Repo for my small Healthcare Data science application which can predict the calorie burned during workout.
 
 #### Let me brief the steps I did for this projects:
